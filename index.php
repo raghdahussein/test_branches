@@ -13,6 +13,10 @@
       #map {
         height: 100%;
       }
+      
+      #stay-in-branch {
+        height: 100%;
+      }
     </style>
   </head>
   <body>
