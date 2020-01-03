@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>go to master Geolocation</title>
+    <title>master commit #2 Geolocation</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -11,10 +11,6 @@
         padding: 0;
       }
       #map {
-        height: 100%;
-      }
-      
-      #stay-in-branch {
         height: 100%;
       }
     </style>
