@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>master commit Geolocation</title>
+    <title>branch commit Geolocation</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -10,13 +10,13 @@
         margin: 0;
         padding: 0;
       }
-      #--map {
+      #map {
         height: 100%;
       }
     </style>
   </head>
   <body>
-    <div id="--map"></div>
+    <div id="map"></div>
     <script>
       // Note: This example requires that you consent to location sharing when
       // prompted by your browser. If you see the error "The Geolocation service
